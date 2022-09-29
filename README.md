@@ -22,7 +22,7 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 
 <h4 align="center">
   These implementations are for demonstrative purposes only. Dedicated implementations of these algorithms and data
-  structures are much better for performance and security reasons. We also do not provide any guarantee for api stability.
+  structures are much better for performance and security reasons. We also do not provide any guarantee for API stability.
 </h4>
 
 ---
@@ -32,7 +32,7 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 Before contributing to this repository, make sure to read our [Contribution Guidelines](CONTRIBUTING.md). You can look
 at other [TheAlgorithms Repositories][repositories] or the [issues with a "help wanted" label][help-wanted] for
 inspiration regarding what to implement. Our maintainers will guide you through how to make your contribution properly
-if you make any mistakes. The names of the maintainers of this repository is listed in the
+if you make any mistakes. The names of the maintainers of this repository are listed in the
 [CODEOWNERS file](.github/CODEOWNERS).
 
 You can find a list of the algorithms currently in the repository in the [directory](DIRECTORY.md). Explanations of
